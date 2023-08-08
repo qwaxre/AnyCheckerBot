@@ -1,5 +1,5 @@
 {
-    "name": "AnyChecker Bot",
+    "name": "CECE CHECKER",
     "description": "A Telegram Bot Made In Pure PHP with Several Features!",
     "logo": "https://telegra.ph/file/0b1d5cb8deeec7a506154.jpg",
     "keywords": [
@@ -7,29 +7,29 @@
         "Bot",
         "Modular"
     ],
-    "website": "https://telegram.me/AnyCheckerBot",
-    "repository": "https://github.com/IndianBots/AnyCheckerBot",
-    "success_url": "https://telegram.me/IndianBots",
+    "website": "https://telegram.me/QCC_CHECKER_BOT",
+    "repository": "https://github.com/qwaxre/",
+    "success_url": "https://telegram.me/QCC_CHECKER_BOT",
     "env": {
         "BOT_TOKEN": {
-            "description": "Enter your Bot Token Here. Get it from @Botfather",
+            "description": "6306153897:AAGqVVKdH0D2mNGBeOstUWty05WmSbvoVEo",
             "required": true
         },
         "BOT_USERNAME": {
-            "description": "Enter the Username of your bot.",
+            "description": "QCC_CHECKER_BOT",
             "required": true
         },
         "WEATHER_API_KEY": {
-            "description": "Enter the Username of your bot.",
+            "description": "QCC_CHECKER_BOT",
             "value": "89ef8a05b6c964f4cab9e2f97f696c81",
             "required": true
         },
         "TG_DUMP_CHAT": {
-            "description": "Chat ID of a Private Group/Channel to store Logs",
+            "description": "1939208680",
             "required": false
         },
         "TIMEZONE": {
-            "description": "Your Timezone for Logging Time",
+            "description": "21:37",
             "value": "Asia/Kolkata",
             "required": false
         }
